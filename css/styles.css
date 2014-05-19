@@ -137,4 +137,9 @@ div.gallery-item .play_video_icon:hover,div.gallery-item .play_video_icon:active
 	}
 }
 
+.theme_bg{
+	min-height:486px;
+}
+
+
 
